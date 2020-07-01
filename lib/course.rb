@@ -4,9 +4,9 @@ class Course
   @@all = []
   
   def initialize 
-    @title = title
-    @schedule = schedule
-    @description = description
+    @title 
+    @schedule 
+    @description 
     @@all << self
   end
   
